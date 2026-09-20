@@ -55,7 +55,7 @@ The analysis was used to identify patterns in:
 
 ## 📷 Dashboard Preview
 
-![image alt](Screenshot 2026-09-20 231644.png)
+![image alt](https://github.com/Priyanka0723/vrinda-store-sales-analysis-excel/blob/0e0d8a0e75ab4fa55cb3f4b4ced944fe514ed6ed/Screenshot%202026-09-20%20231644.png)
 
 
 ## 🎯 Project Purpose
