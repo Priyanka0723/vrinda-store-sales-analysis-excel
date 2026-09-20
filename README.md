@@ -55,7 +55,7 @@ The analysis was used to identify patterns in:
 
 ## 📷 Dashboard Preview
 
-Add a screenshot of the main Excel dashboard here.
+Screenshot 2026-09-20 231644.png
 
 
 ## 🎯 Project Purpose
